@@ -25,7 +25,7 @@ class Solution {
                 {
                     nicee[n]=10+nice[n].charAt(0)-'0'+nice[n].charAt(1)-'0';
                 }
-                else if(nice[n].substring(1).eqauls("\/"))
+                else if(nice[n].substring(1).eqauls("/"))
                 {
                     nicee[n]=nice[n].charAt(0)-'0'+nice[n].charAt(1)-'0';
                 }
